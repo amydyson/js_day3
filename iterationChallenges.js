@@ -5,7 +5,7 @@
 // for (var i=0; i<10; i++) { console.log(i); }
 // What is the value of i after the loop? Is it the same in both cases?
 
-
+// comment added for GitHub
 
 for (var i=0; i<10; i++) {
   console.log(i);
